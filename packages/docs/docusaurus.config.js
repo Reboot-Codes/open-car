@@ -11,7 +11,7 @@ const config = {
   title: 'OpenCar',
   tagline: 'An open and free car operating system.',
   url: 'https://example.com',
-  baseUrl: '/',
+  baseUrl: '/open-car/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
