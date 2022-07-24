@@ -10,7 +10,7 @@ const repo = "https://github.com/Reboot-Codes/open-car"
 const config = {
   title: 'OpenCar',
   tagline: 'An open and free car operating system.',
-  url: 'https://example.com',
+  url: 'https://reboot-codes.github.io',
   baseUrl: '/open-car/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -59,9 +59,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'OpenCar',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'OpenCar Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -69,7 +69,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Docs',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -83,7 +83,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Documentation',
+            title: 'Docs',
             items: [
               {
                 label: 'Intro',

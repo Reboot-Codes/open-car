@@ -2736,6 +2736,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/node@npm:^18.6.0":
+  version: 18.6.0
+  resolution: "@types/node@npm:18.6.0"
+  checksum: 53a910b28d0eef4baf7059e3fea2f69d06ee72e39dd11e72e317cdf7f4e859683ff2d6fb1ef5e6287bbfa56b3f2bf056227a8b12bcc4ff0f724b6a13b030091b
+  languageName: node
+  linkType: hard
+
 "@types/parse-json@npm:^4.0.0":
   version: 4.0.0
   resolution: "@types/parse-json@npm:4.0.0"
@@ -7455,6 +7462,9 @@ __metadata:
 "open-car@workspace:.":
   version: 0.0.0-use.local
   resolution: "open-car@workspace:."
+  dependencies:
+    "@types/node": ^18.6.0
+    typescript: ^4.7.4
   languageName: unknown
   linkType: soft
 
