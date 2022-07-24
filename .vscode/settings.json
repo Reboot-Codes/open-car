@@ -3,5 +3,8 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "typescript.tsdk": ".yarn/sdks/typescript/lib"
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/reboot/dev/open-car/.github/workflows/deploy.yml"
+  }
 }
