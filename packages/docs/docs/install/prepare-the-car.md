@@ -11,7 +11,9 @@ Although, you may be able to create a holder for the required components. Anothe
 ## Remove the Car Computer
 
 :::note
+
 This does not mean that you remove all wires going to the computer from both sides (e.g. computer and sensors). Instead tape them down to the sides of the car's frame or other location. You may also want to tape off the end to prevent dust and other debris from messing with the connection(s).
+
 :::
 
 This will vary from car to car, but it will usually mean following these steps (change as needed):
